@@ -1,2 +1,3 @@
-# toy-solder
- the soldering iron controller 
+# the toySolder
+
+Soldering Iron controller code repository.

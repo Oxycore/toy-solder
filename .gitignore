@@ -1,6 +1,8 @@
-
 # .v4p backup files
 *~.xml
 
-# Dynamic plugins .dll
-bin/
+# Visual Studio Code - config
+.vscode
+
+# project build files
+build
